@@ -42,6 +42,7 @@
     margin: 0 auto;
 }
 
+
 @media screen and (max-width: 600px){
     [class*='col-']
     {
@@ -82,6 +83,10 @@
 .body-height { height: 500px;}
 .big-footer-height { height: 300px;}
 .footer-height { height: 50px;}
+
+.h-100 { height: 100px }
+.h-200 { height: 200px }
+
 
 @media screen and (max-width: 800px){
     .test { color: red}
